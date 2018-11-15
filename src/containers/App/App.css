@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.Progress {
+  height: 4px;
+  background-color: black;
+}
+
+.Title {
+  margin: 5vh;
+}
+
+.Filler {
+  background-color: black;
+  height: 40px;  
+}
+
+

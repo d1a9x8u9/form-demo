@@ -1,0 +1,27 @@
+.Container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+Label {
+    text-align: left;
+    margin: 0 0 0 2vh;
+}
+
+Form {
+    border-left: 1px black solid;
+    text-align: left;
+    padding: 0 2vh;
+}
+
+.programform-title {
+    text-align: left;
+    margin-bottom: 3vh;
+}
+
+.programform-title small {
+    color: grey;
+    font-size: 1.75vh;
+    margin-left: 1vh;
+}

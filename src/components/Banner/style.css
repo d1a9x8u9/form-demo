@@ -1,0 +1,7 @@
+.Banner {
+    display: flex;
+    flex-flow: nowrap row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2vh;
+}
